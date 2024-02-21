@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Users/amajerowicz222/Documents/Unreal Projects/KozaSnieznaIII/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Users/amajerowicz222/Documents/Unreal Projects/KozaSnieznaIII/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Users/amajerowicz222/Documents/Unreal Projects/KozaSnieznaIII/Content/DragonArmor/Character/AnimacjaDragonArmor.uasset",
+				"D:/Users/amajerowicz222/Documents/Unreal Projects/KozaSnieznaIII/Content/DragonArmor/Character/Animation.uasset",
+				"D:/Users/amajerowicz222/Documents/Unreal Projects/KozaSnieznaIII/Content/DragonArmor/Character/Falling_Idle.uasset",
+				"D:/Users/amajerowicz222/Documents/Unreal Projects/KozaSnieznaIII/Content/DragonArmor/Character/Idle.uasset",
+				"D:/Users/amajerowicz222/Documents/Unreal Projects/KozaSnieznaIII/Content/DragonArmor/Character/Idle_1_.uasset",
+				"D:/Users/amajerowicz222/Documents/Unreal Projects/KozaSnieznaIII/Content/DragonArmor/Character/Idle_PhysicsAsset.uasset",
+				"D:/Users/amajerowicz222/Documents/Unreal Projects/KozaSnieznaIII/Content/DragonArmor/Character/Idle_Skeleton.uasset",
+				"D:/Users/amajerowicz222/Documents/Unreal Projects/KozaSnieznaIII/Content/DragonArmor/Character/Jumping_Down.uasset",
+				"D:/Users/amajerowicz222/Documents/Unreal Projects/KozaSnieznaIII/Content/DragonArmor/Character/M_Mon_BlackDragon31a.uasset",
+				"D:/Users/amajerowicz222/Documents/Unreal Projects/KozaSnieznaIII/Content/DragonArmor/Character/M_Mon_BlackDragon31b.uasset",
+				"D:/Users/amajerowicz222/Documents/Unreal Projects/KozaSnieznaIII/Content/DragonArmor/Character/Mutant_Jumping.uasset",
+				"D:/Users/amajerowicz222/Documents/Unreal Projects/KozaSnieznaIII/Content/DragonArmor/Character/Running.uasset",
+				"D:/Users/amajerowicz222/Documents/Unreal Projects/KozaSnieznaIII/Content/DragonArmor/Character/Walking.uasset"
+			]
+		}
+	]
+}
